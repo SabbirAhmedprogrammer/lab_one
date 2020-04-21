@@ -1,0 +1,46 @@
+/* #69696a  nav links for grey
+#000 for black
+#FFF  buttons   */
+
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #f9fafc;
+    color:#000;
+}
+
+h1 {
+    font-size:12px;   
+}
+
+ul {
+    list-style-type:none;
+    padding:0; 
+    margin: 0;
+}
+
+a {
+    text-decoration:none;
+    color:#69696a;
+}
+
+.button {
+    display:block;
+    border-radius:15px;
+    padding:5px;
+    text-align:center;
+    background-color:black;
+}
+
+.btnColor {
+    color:white;
+    
+}  
+
+p {margin-left:5px;
+    border-left:2px solid #69696a;
+    padding-left:10px;
+}
